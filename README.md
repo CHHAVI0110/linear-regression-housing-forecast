@@ -1,4 +1,4 @@
-# linear-regression-housing-forecast
+# Linear-Regression-Housing-Forecast
 
 # Overview
 This project implements a Linear Regression model to predict house prices using the Sklearn Dataset.
